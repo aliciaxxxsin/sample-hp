@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    margin: 0;
+    font-family: "Hiragino Kaku Gothic ProN", sans-serif;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+
+  .container {
+    width: 1170px;
+    padding: 0 15px;
+    margin: 0 auto;
+  }
+
+  .menu-wrapper {
+    background-image: url("../img/DSC03312-2-3.jpg");
+    height: 500px;
+    background-size: cover;
+  }
+
+  .menu-wrapper h1{
+    font-size: 34px;
+    float:left;
+  }
+  
+  .menu-wrapper ul {
+    display: inline-block;
+  }
+
+  .menu-right {
+    background-color: #fff;;
+    }
+  .menu-wrapper li {
+    list-style: none;
+    float: left;
+  }
