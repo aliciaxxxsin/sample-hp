@@ -34,9 +34,9 @@
 
   .menu-right {
     background-color: #fff;;
+    float: right;
+    margin: 10px 30px;
     }
   .menu-wrapper li {
     list-style: none;
-    float: right;
-    margin: 10px 30px;
   }
